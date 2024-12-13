@@ -1,0 +1,189 @@
+{
+    "desa": {
+        "lokasi": "Desa Borobudur terletak di Kabupaten Magelang, Provinsi Jawa Tengah, Indonesia. Kode pos: 56553.",
+        "sejarah": "Desa Borobudur terkenal karena menjadi lokasi Candi Borobudur, candi Buddha terbesar di dunia, yang dibangun oleh Dinasti Syailendra pada abad ke-8.",
+        "jumlah_kepala_keluarga": 3361
+    },
+    "jumlah_penduduk": [
+        {"kategori": "Total", "jumlah": 9826},
+        {"kategori": "Laki-laki", "jumlah": 4836},
+        {"kategori": "Perempuan", "jumlah": 4990}
+    ],
+    "pendidikan_terakhir": [
+        {"jenjang": "Tamat SD", "jumlah": 2027},
+        {"jenjang": "SLTP", "jumlah": 1420},
+        {"jenjang": "SLTA", "jumlah": 2759},
+        {"jenjang": "D1", "jumlah": 44},
+        {"jenjang": "S2", "jumlah": 30}
+    ],
+    "mata_pencaharian": [
+        {"pekerjaan": "Petani", "jumlah": 246},
+        {"pekerjaan": "Buruh Tani", "jumlah": 125},
+        {"pekerjaan": "Buruh Swasta", "jumlah": 136},
+        {"pekerjaan": "Pegawai Negeri", "jumlah": 35},
+        {"pekerjaan": "Montir", "jumlah": 8}
+    ],
+    "agama": [
+        {"agama": "Islam", "jumlah": 2215},
+        {"agama": "Kristen", "jumlah": 5},
+        {"agama": "Buddha", "jumlah": 1}
+    ],
+    "pengurus_tp_pkk": [
+        {"nama": "Ismi Prastikawati, A.MK.", "jabatan": "Ketua"},
+        {"nama": "Dwi Anggar Kaswati", "jabatan": "Wakil Ketua I"},
+        {"nama": "Lucia Hari Sucahyowati", "jabatan": "Sekretaris"},
+        {"nama": "Dianovita Paramita Wardani, S.Gz", "jabatan": "Wakil Sekretaris I"},
+        {"nama": "Siska Wahyanti", "jabatan": "Wakil Sekretaris II"},
+        {"nama": "Sri Hendratik", "jabatan": "Bendahara"},
+        {"nama": "Munawaroh", "jabatan": "Wakil Bendahara I"},
+        {"nama": "Ratih Ambarsari", "jabatan": "Wakil Bendahara II"},
+        {"nama": "Ika Wijayanti", "jabatan": "Ketua Pokja I"},
+        {"nama": "Nurul Huda", "jabatan": "Sekretaris Pokja I"},
+        {"nama": "Lastari", "jabatan": "Bendahara Pokja I"},
+        {"nama": "Siti Mudawimah", "jabatan": "Anggota Pokja I"},
+        {"nama": "Sri Wahyudati", "jabatan": "Anggota Pokja I"},
+        {"nama": "Winarti", "jabatan": "Ketua Pokja II"},
+        {"nama": "Furnia", "jabatan": "Sekretaris Pokja II"},
+        {"nama": "Rikanah", "jabatan": "Bendahara Pokja II"},
+        {"nama": "Sheny Afriyanti", "jabatan": "Anggota Pokja II"},
+        {"nama": "Rusyati", "jabatan": "Ketua Pokja III"},
+        {"nama": "Malikhatul Isnaeni", "jabatan": "Sekretaris Pokja III"},
+        {"nama": "Arina Waliyati", "jabatan": "Bendahara Pokja III"},
+        {"nama": "Setiyo Puji Lestari", "jabatan": "Anggota Pokja III"},
+        {"nama": "Siti Ruqoyah", "jabatan": "Ketua Pokja IV"},
+        {"nama": "Titik Windarsih", "jabatan": "Sekretaris Pokja IV"},
+        {"nama": "Miftachul Fitri Rosada", "jabatan": "Bendahara Pokja IV"},
+        {"nama": "Waliyah", "jabatan": "Anggota Pokja IV"}
+    ],
+    "perangkat_desa": [
+        {"nama": "Anwar Ujang Maryadi Lukman, S.E.", "jabatan": "Kepala Desa", "alamat": "Kurahan, Rt. 001 Rw. 003", "no_hp": "081328036526"},
+        {"nama": "Ichsanusi", "jabatan": "Sekretaris Desa", "alamat": "Kaliabon, Rt. 003 Rw. 001", "no_hp": "081227309993"},
+        {"nama": "Elgus Kelanawati", "jabatan": "Kepala Seksi Pemerintahan", "alamat": "Kaliabon, Rt. 003 Rw. 001", "no_hp": "085725705300"},
+        {"nama": "Budiman A", "jabatan": "Kepala Seksi Pelayanan", "alamat": "Ngaran II Rt. 002 Rw. 006", "no_hp": "087734095913"},
+        {"nama": "Evinda Riyandani", "jabatan": "Kepala Seksi Kesejahteraan Rakyat", "alamat": "Bogowanti Kidul, Rt. 002 Rw. 013", "no_hp": "085727219000"},
+        {"nama": "Dianovita Paramita Wardani", "jabatan": "Kepala Urusan Keuangan", "alamat": "Bogowanti Lor, Rt. 001 Rw. 014", "no_hp": "085743414908"},
+        {"nama": "Muh Agung Wibowo Aji", "jabatan": "Kepala Urusan Tata Usaha dan Umum", "alamat": "Ngaran I, Rt. 004 Rw. 005", "no_hp": "081328387494"},
+        {"nama": "Andik Cahyono", "jabatan": "Kepala Urusan Perencanaan", "alamat": "Janan, Rt. 002 Rw. 004", "no_hp": "087723180212"},
+        {"nama": "Sutarja", "jabatan": "Kepala Dusun Jayan dan Kaliabon"},
+        {"nama": "Romadi", "jabatan": "Kepala Dusun Jligudan dan Kelon"},
+        {"nama": "Ferriyanto", "jabatan": "Kepala Dusun Kurahan dan Cawangsari"},
+        {"nama": "Maryoto", "jabatan": "Kepala Dusun Janan"},
+        {"nama": "Rujianto", "jabatan": "Kepala Dusun Ngaran I dan Ngaran II"},
+        {"nama": "Nurul Yadin", "jabatan": "Kepala Dusun Gopalan dan Bumisegoro"},
+        {"nama": "Heri Agus Setiawan", "jabatan": "Kepala Dusun Maitan, Tamanan dan Tanjungan"},
+        {"nama": "Mugiman", "jabatan": "Kepala Dusun Sabrangrowo, Kujon dan Gejagan"},
+        {"nama": "Matori", "jabatan": "Kepala Dusun Gendingan dan Bogowanti Kidul"},
+        {"nama": "Sutaryanto", "jabatan": "Kepala Dusun Bogowanti Lor dan Kenayan"}
+    ],
+    "lembaga_kemasyarakatan_bpd": [
+        {"nama": "Darsono, S.T.", "jabatan": "Ketua"},
+        {"nama": "Jazin Riyono", "jabatan": "Wakil Ketua"},
+        {"nama": "Itamawanti", "jabatan": "Sekretaris"},
+        {"nama": "Slamet Munir", "jabatan": "Anggota"},
+        {"nama": "Muhamad Mukorobin", "jabatan": "Anggota"},
+        {"nama": "Suripto", "jabatan": "Anggota"},
+        {"nama": "Makmun", "jabatan": "Anggota"},
+        {"nama": "Sumartono", "jabatan": "Anggota"},
+        {"nama": "Dimas Septiyuga Nusantara", "jabatan": "Anggota"}
+    ],
+    "wisata": [
+        {
+        "nama": "Candi Borobudur",
+        "deskripsi": "Candi Buddha terbesar di dunia, dibangun pada abad ke-8 oleh Dinasti Syailendra. Dikenal sebagai salah satu Situs Warisan Dunia UNESCO.",
+        "tiket": "Rp 50.000 (lokal dewasa), Rp 25.000 (lokal anak), Rp 350.000 (asing)",
+        "jam_operasional": "07:00 - 16:00",
+        "lokasi": "Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah, Indonesia."
+        },
+        {
+        "nama": "Punthuk Setumbu",
+        "deskripsi": "Bukit dengan pemandangan matahari terbit yang spektakuler, menampilkan siluet Candi Borobudur dan Pegunungan Menoreh.",
+        "tiket": "Rp 20.000",
+        "jam_operasional": "04:00 - 18:00",
+        "lokasi": "Kurahan, Karangrejo, Borobudur"
+        },
+        {
+        "nama": "Gereja Ayam",
+        "deskripsi": "Bangunan ikonik berbentuk ayam, sering menjadi lokasi foto dan memiliki area observasi dengan pemandangan indah.",
+        "tiket": "Rp 25.000",
+        "jam_operasional": "07:00 - 17:00",
+        "lokasi": "Karangrejo Gombong, Kurahan, Kembanglimus, Kec. Borobudur, Kabupaten Magelang"
+        },
+        {
+        "nama": "Curug Watuploso",
+        "deskripsi": "tolong isikan",
+        "tiket": "Rp 10.000",
+        "jam_operasional": "08:00 - 18:00",
+        "lokasi": "956C+R33, Olgung, Giripurno, Kec. Borobudur"
+        },
+        {
+        "nama": "Candi Mendut dan Candi Pawon",
+        "deskripsi": "tolong isikan",
+        "tiket": "Wisatawan domestik: Rp10.000 plus asuransi Rp500, Wisatawan mancanegara: Rp20.500",
+        "jam_operasional": "07:00 - 16:00",
+        "lokasi": "96V9+GRV, Brojonalan, Dusun 1, Wanurejo, Kec. Borobudur"
+        },
+        {
+        "nama": "Museum Kapal Samudra Raksa",
+        "deskripsi": "tolong isikan",
+        "tiket": "sepaket dengan candi borobudur",
+        "jam_operasional": "08:00 - 15:30",
+        "lokasi": "Taman Wisata Candi Borobudur, Jl. Badrawati, Borobudur, Kw. Candi Borobudur, Borobudur"
+        }
+    ],
+    "layanan_masyarakat": [
+        {
+        "nama": "Kantor Desa Borobudur",
+        "lokasi": "Jalan Borobudur No. 1, Desa Borobudur, Magelang.",
+        "jadwal": "08:00 - 16:00 (Senin-Jumat)"
+        },
+        {
+        "nama": "Posyandu Balita",
+        "lokasi": "Balai Desa Borobudur",
+        "jadwal": "Hari Rabu, minggu kedua setiap bulan, pukul 09:00 - 12:00"
+        },
+        {
+        "nama": "Puskesmas Borobudur",
+        "lokasi": "Jalan Raya Borobudur, dekat Terminal Borobudur",
+        "jadwal": "24 jam untuk darurat, pelayanan reguler: 07:30 - 14:00 (Senin-Jumat)"
+        }
+    ],
+    "kuliner": [
+        {
+        "nama": "Wedang Ronde",
+        "deskripsi": "Minuman hangat berbahan jahe dengan isian bola ketan, kacang tanah, dan kolang-kaling.",
+        "harga": "Rp 10.000 - Rp 15.000"
+        },
+        {
+        "nama": "Getuk Trio",
+        "deskripsi": "Makanan ringan khas Magelang yang terbuat dari singkong, terkenal dengan teksturnya yang lembut.",
+        "harga": "Rp 8.000 - Rp 12.000"
+        },
+        {
+        "nama": "Es Dawet Ireng",
+        "deskripsi": "Minuman segar dengan campuran cendol hitam, santan, dan gula merah.",
+        "harga": "Rp 7.000 - Rp 10.000"
+        }
+    ],
+    "transportasi": [
+        {
+        "nama": "Terminal Borobudur",
+        "lokasi": "1 km dari pusat desa",
+        "deskripsi": "Terminal utama untuk bus lokal dan antar kota."
+        },
+        {
+        "nama": "Stasiun Magelang Kota",
+        "lokasi": "14 km dari Borobudur",
+        "deskripsi": "Stasiun kereta api terdekat dengan akses menuju Yogyakarta dan Semarang."
+        },
+        {
+        "nama": "Stasiun Yogyakarta",
+        "lokasi": "30 km dari Borobudur",
+        "deskripsi": "Stasiun utama dengan rute ke berbagai kota besar di Pulau Jawa."
+        },
+        {
+        "nama": "Angkutan Lokal",
+        "lokasi": "Tersedia di sekitar terminal dan pasar Borobudur",
+        "deskripsi": "Pilihan transportasi murah untuk bepergian di sekitar desa."
+        }
+    ]
+}
