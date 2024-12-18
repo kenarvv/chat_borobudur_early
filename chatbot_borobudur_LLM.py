@@ -46,7 +46,7 @@ class PalmChatbot:
 
 def main():
     # Hardcode API key
-    api_key = 'AIzaSyBT9FCKg6e6fNskfaPFKpITsrIcrQkwnCw'
+    api_key = 'Google API key'
 
     chatbot = PalmChatbot(api_key)
     print("Chatbot PaLM: Hai! Aku siap mengobrol. Ketik 'bye' untuk keluar.")
